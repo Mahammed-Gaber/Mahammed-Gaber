@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahammed Gaber</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
+<img align="right" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 - 🔭 I’m currently working on **Freelance project**
 
