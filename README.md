@@ -5,24 +5,10 @@
 </div>
 <br clear="both">
 
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
 <h1 align="center">Hi 👋, I'm Mahammed Gaber</h1>
 <h3 align="center">A passionate FullStack Developer</h3>
-
-
-<div align="right">
-  <img height="400" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"  />
-</div>
-
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=Mahammed-Gaber&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150"         alt="trophy graph"  />
-</div>
-
   
-- 🔭 I’m currently working on **Freelance project**
-
-- 🌱 I’m currently learning **Tailwind, MUI**
+- 🔭 I’m currently working on **Freelancing projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mahammed-Gaber?tab=repositories](https://github.com/Mahammed-Gaber?tab=repositories)
 
@@ -100,8 +86,4 @@
 ###
 <img src="https://raw.githubusercontent.com/Mahammed-Gaber/Mahammed-Gaber/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahammed-Gaber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahammed-Gaber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Mahammed-Gaber&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
